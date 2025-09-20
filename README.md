@@ -17,7 +17,7 @@ _Scrape • Store • Search • Discover_
 # Live URL To Access Application
 
 [![Frontend](https://img.shields.io/badge/📱_Frontend-Visit_Demo-FF4B8B?style=for-the-badge&logoColor=white)](https://book-explorer-lzr6.onrender.com)
-[![Backend](https://img.shields.io/badge/⚙️_Backend-API_Endpoint-4C57E5?style=for-the-badge&logoColor=white)](https://book-explorer-backend-zo5w.onrender.com)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-API_Endpoint-4C57E5?style=for-the-badge&logoColor=white)](https://book-explorer-backend-zo5w.onrender.com/api/books)
 [![Scraper](https://img.shields.io/badge/🕷️_Scraper-Data_Service-00CC88?style=for-the-badge&logoColor=white)](https://book-explorer-scraper.onrender.com)
 
 </div>

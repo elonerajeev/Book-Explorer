@@ -12,6 +12,14 @@ _Scrape • Store • Search • Discover_
 
 [🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
 
+<div align="center">
+
+[![Frontend](https://img.shields.io/badge/📱_Frontend-Visit_Demo-FF4B8B?style=for-the-badge&logoColor=white)](https://book-explorer-lzr6.onrender.com)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-API_Endpoint-4C57E5?style=for-the-badge&logoColor=white)](https://book-explorer-backend-zo5w.onrender.com)
+[![Scraper](https://img.shields.io/badge/🕷️_Scraper-Data_Service-00CC88?style=for-the-badge&logoColor=white)](https://book-explorer-scraper.onrender.com)
+
+</div>
+
 </div>
 
 ---
@@ -357,38 +365,24 @@ npm run watch       # Watch mode for development
 
 ## 🚀 Deployment
 
-### 🌐 **Frontend Deployment**
+### 🌐 **Frontend Deployment: Render**
 
-**Vercel** (Recommended)
+**Frontend**
 
 ```bash
-npm install -g vercel
-vercel --prod
+URL : 'https://book-explorer-lzr6.onrender.com/'
 ```
 
-**Netlify**
+**Backend**
 
 ```bash
-npm run build
-# Deploy dist/ folder to Netlify
+URL : 'https://book-explorer-backend-zo5w.onrender.com/'
 ```
 
-### ⚙️ **Backend Deployment**
-
-**Railway** (Recommended)
+**Scraper**
 
 ```bash
-# Connect GitHub repo to Railway
-# Set environment variables
-# Deploy automatically on push
-```
-
-**Render**
-
-```bash
-# Connect GitHub repo
-# Set build command: npm install
-# Set start command: npm start
+URL : 'https://book-explorer-scraper.onrender.com/'
 ```
 
 ### 🗃️ **Database Deployment**

@@ -8,7 +8,8 @@ import BookModal from '../components/BookModal';
 import Pagination from '../components/Pagination';
 import Footer from '../components/Footer';
 
-const API_BASE_URL = 'http://localhost:5000'; // Update to your backend URL
+//const API_BASE_URL = 'http://localhost:5000'; // Update to your backend URL
+const API_BASE_URL = 'https://book-explorer-backend-zo5w.onrender.com/';
 
 const Home = () => {
   const [books, setBooks] = useState([]);

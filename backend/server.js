@@ -47,6 +47,6 @@ app.post("/api/refresh", async (req, res) => {
 // simple health
 app.get("/api/health", (req, res) => res.json({ ok: true }));
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log(`Server listening on port ${PORT}`);
 });

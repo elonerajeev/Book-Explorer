@@ -6,6 +6,12 @@ export default defineConfig({
   server: {
     allowedHosts: true,
   },
+  // Add this preview configuration
+  preview: {
+    host: true,
+    port: 10000,
+    strictPort: true,
+  },
   esbuild: {
     logOverride: {
       "ignored-directive": "silent",
